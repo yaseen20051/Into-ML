@@ -61,7 +61,7 @@ Understand **why** Random Forest dominates single Decision Trees by building bot
 ### How to Run
 
 ```bash
-git clone https://github.com/your-username/breast-cancer-dt-rf-from-scratch.git
+git clone [https://github.com/yaseen2005https://github.com/your-username/breast-cancer-dt-rf-from-scratch.git1/Into-ML.git](https://github.com/yaseen20051/Into-ML.git)
 cd breast-cancer-dt-rf-from-scratch
 pip install -r requirements.txt
 jupyter notebook
