@@ -54,7 +54,6 @@ I built a **custom dataset** of atmospheric gamma particles and trained a KNN mo
 | Model                  | Accuracy | Precision | Recall | F1-Score |
 |------------------------|---------|-----------|--------|----------|
 | K-Nearest Neighbors     | 0.92    | 0.91      | 0.93   | 0.92     |
-| Logistic Regression    | 0.88    | 0.87      | 0.88   | 0.87     |
 | Decision Tree          | 0.90    | 0.89      | 0.90   | 0.89     |
 | Random Forest          | 0.93    | 0.92      | 0.93   | 0.92     |
 
